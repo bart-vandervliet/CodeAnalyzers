@@ -15,5 +15,8 @@
 	<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
     <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>
 	<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
+	<NoWarn>CS1591</NoWarn>
   </PropertyGroup>
 </Project>
